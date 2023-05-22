@@ -8,7 +8,7 @@ Checking whther the concatenation of both the strings are same, if yes then usin
 
 - Space complexity: **O(1)**
 
-# Explanation:
+# Explanation
 
 - Using **gcd** function to find the gcd of the length of the strings so as to return the largest string.
 
