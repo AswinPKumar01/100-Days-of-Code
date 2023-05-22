@@ -1,5 +1,5 @@
 class Solution:
-    def gcdOfStrings(self, str1: str, str2: str) -> str: #
+    def gcdOfStrings(self, str1: str, str2: str) -> str:
 
         num = gcd(len(str1),len(str2))
         
