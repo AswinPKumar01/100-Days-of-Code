@@ -8,7 +8,7 @@ Using **Kadane's Algorithm** to scan the entire array, along with finding the su
 
 - Space complexity: **O(1)**
 
-# Explanation:
+# Explanation
 
 - Initializing two variables: **current_sum** for keeping track of the sum of the elements and a max_sum variable to store the larget sum.
 
