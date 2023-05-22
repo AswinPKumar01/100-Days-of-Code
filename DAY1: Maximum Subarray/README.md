@@ -1,4 +1,4 @@
-# Approac
+# Approach
  
 Using **Kadane's Algorithm** to scan the entire array, along with finding the sum of elements while traversing and finally extracting the maximum sum.
 
