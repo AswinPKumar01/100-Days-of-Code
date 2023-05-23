@@ -1,9 +1,6 @@
 # 100-Days-of-Code
 
-
-A list of 100 programming questions from Leetcode to improve coding skills
-
-![100 DAYS OF CODE](https://github.com/AswinPKumar01/100-Days-of-Code/assets/118362715/05779e33-d524-41ee-8f3b-31e4595f5f01)
+<img src ="https://github.com/AswinPKumar01/100-Days-of-Code/assets/118362715/05779e33-d524-41ee-8f3b-31e4595f5f01" width ="600" height = "500">
 
 The leetcode links to questions of each day:
 
