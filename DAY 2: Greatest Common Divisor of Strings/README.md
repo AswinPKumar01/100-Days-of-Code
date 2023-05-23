@@ -16,4 +16,4 @@ Checking whther the concatenation of both the strings are same, if yes then usin
 
 - If yes, then returns the string upto the gcd count to get the largest string
 
-- else returns empty string
+- Else returns empty string
