@@ -1,6 +1,6 @@
 # Approach
  
-Checking whther the concatenation of both the strings are same, if yes then using the gcd function to return the largest string.
+Checking whether the concatenation of both the strings are same, if yes then using the gcd function to return the largest string.
 
 # Complexity
 
