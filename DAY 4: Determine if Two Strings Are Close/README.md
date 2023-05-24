@@ -1,6 +1,6 @@
 # Approach
 
-Using Counter function to count the occurence of characters and then comparing to check whether they have the same set of characters
+Using Counter function to count the occurence of characters and then comparing to check whether they have the same set of characters.
 
 # Complexity
 
