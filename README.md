@@ -9,3 +9,5 @@ The leetcode links to questions of each day:
 **DAY 2:** Greatest Common Divisor of Strings- https://leetcode.com/problems/greatest-common-divisor-of-strings/
 
 **DAY 3:** Palindrome Linked List - https://leetcode.com/problems/palindrome-linked-list/
+
+**DAY 4:** Determine if Two Strings Are Close - https://leetcode.com/problems/determine-if-two-strings-are-close/
