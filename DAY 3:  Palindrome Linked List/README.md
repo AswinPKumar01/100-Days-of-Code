@@ -6,7 +6,7 @@ Adding the values of the linked list to a new list and checking whether it is a 
 
 - Time complexity: **O(N)**
 
-- Space complexity: **O(N)**
+- Space complexity: **O(N)**.
 
 # Explanation
 
