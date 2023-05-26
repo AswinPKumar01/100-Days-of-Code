@@ -12,5 +12,6 @@ The leetcode links to questions of each day:
 
 **DAY 4:** Determine if Two Strings Are Close - https://leetcode.com/problems/determine-if-two-strings-are-close/
 
-**DAY 5:** Successful Pairs of Spells and Potions
- - https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+**DAY 5:** Successful Pairs of Spells and Potions - https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+
+**DAY 6:** Successful Pairs of Spells and Potions - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
