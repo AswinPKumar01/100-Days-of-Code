@@ -4,7 +4,7 @@ Converting the array into set data type to remove the duplicates.
 
 # Complexity
 
-- Time complexity: **O(NlogN)**, **n** is the length of input words and **m** is the number of unique characters in the counters.
+- Time complexity: **O(NlogN)**
 
 - Space complexity: **O(N)**
 
