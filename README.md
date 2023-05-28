@@ -15,3 +15,7 @@ The leetcode link to questions of each day:
 **DAY 5:** Successful Pairs of Spells and Potions - https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 
 **DAY 6:** Remove Duplicates from Sorted Array - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+**DAY 7:** Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+
+**DAY 8:** Interleaving String - https://leetcode.com/problems/interleaving-string/
