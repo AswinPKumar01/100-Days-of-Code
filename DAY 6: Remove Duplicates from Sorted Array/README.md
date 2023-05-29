@@ -1,19 +1,17 @@
 # Approach
 
-Iterating through both strings simultaneously, returning **True** if **'s'** is a subsequence and False otherwise.
+Converting the array into set data type to remove the duplicates.
 
 # Complexity
 
-- Time complexity: **O(N)**
+- Time complexity: **O(NlogN)**
 
-- Space complexity: **O(1)**
+- Space complexity: **O(N)**
 
 # Explanation
 
-- First checks if the length of **s** (the subsequence) is greater than the length of **t** (the target string). If yes then returns **False** because it means that s cannot be a subsequence of **t** because **s** is longer than t.
+- A new list is created using the set function to remove any duplicates from the original **nums** list which converts the nums list into a set, which only contains unique elements, and then the **sorted** function is used to sort the elements in ascending order.
 
-- If no the, the code initializes two variables **i** and **j** to 0. These variables will be used as indices to traverse the strings **s** and **t**, respectively.
+- The contents of the nums list is replaced with the new list using slice assignment **nums[:]**
 
-- Then, a loop is used to iterate over the characters of both strings in which the code checks if the characters at index **i** in **s** is equal to the character at index **j** in **t**. If they are equal, it means that the current character in **s** is present in **t**.
-
-- After the while loop, the code checks if **i** is equal to the length of **s**. If it is, it means that all the characters in **s** have been found in **t** in the same order, and **s** is a subsequence of **t**. In that case, the method returns **True**. Otherwise, it returns **False**, indicating that **s** is not a subsequence of **t**.
+- The method returns the length of the updated nums list using the len function, this represents the number of unique elements in the list after removing duplicates.
