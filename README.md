@@ -20,5 +20,6 @@ The leetcode link to questions of each day:
 
 **DAY 8:** Interleaving String - https://leetcode.com/problems/interleaving-string/
 
-
 **DAY 9:** Is Subsequence - https://leetcode.com/problems/is-subsequence/
+
+**DAY 10:** Remove Element - https://leetcode.com/problems/remove-element/description/
