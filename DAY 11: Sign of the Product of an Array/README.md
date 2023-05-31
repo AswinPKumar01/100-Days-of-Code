@@ -10,7 +10,7 @@ Common approach of finding the product by traversing each element and multiplyin
 
 # Explanation
 
-- Initialising a **prod** variable as 1 which is used to get the product of all the elements in the array.
+- Initializing a **prod** variable as 1 which is used to get the product of all the elements in the array.
 
 - Finding the product of all the elements by traversing each element and multiplying it with the **prod** variable. 
 
