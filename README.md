@@ -24,6 +24,6 @@ The leetcode link to questions of each day:
 
 **DAY 10:** Remove Element - https://leetcode.com/problems/remove-element/description/
 
-**DAY 11:** Remove Element - https://leetcode.com/problems/remove-element/description/
+**DAY 11:** Sign of the Product of an Array - https://leetcode.com/problems/sign-of-the-product-of-an-array/
 
 **DAY 12:** Remove Element - https://leetcode.com/problems/remove-element/description/
