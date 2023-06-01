@@ -26,4 +26,4 @@ The leetcode link to questions of each day:
 
 **DAY 11:** Sign of the Product of an Array - https://leetcode.com/problems/sign-of-the-product-of-an-array/
 
-**DAY 12:** Remove Element - https://leetcode.com/problems/remove-element/description/
+**DAY 12:** Find Pivot Index - https://leetcode.com/problems/find-pivot-index/
