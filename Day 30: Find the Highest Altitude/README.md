@@ -11,9 +11,7 @@ Finding the highest gain by adding up the current gain and then finding the maxi
 
 - Initialize variables high and curr to 0, representing the highest altitude reached and the current altitude, respectively.
 
-- Iterate over the elements i in the gain list.
-
-- Add the value of i to the curr variable, representing the current altitude.
+- Iterate over the elements i in the gain list and add the value of i to the curr variable, representing the current altitude.
 
 - Update the high variable by taking the maximum value between the current high and curr. This ensures that high always stores the highest altitude reached so far.
 
