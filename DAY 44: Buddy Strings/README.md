@@ -1,6 +1,6 @@
 # Approach
  
-Comparing the characters of s and goal from both ends and identifying the first mismatched characters. If a mismatch is found, it swaps the characters at those positions and checks if the modified s is equal to goal.
+It compares the characters of s and goal from both ends, identifying the first mismatched characters, if a mismatch is found, it swaps the characters at those positions and checks if the modified s is equal to goal.
 
 # Complexity
 
