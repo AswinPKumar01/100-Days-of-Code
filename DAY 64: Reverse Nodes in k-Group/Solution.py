@@ -15,4 +15,4 @@
             curr = nxt
 
         head.next = self.reverseKGroup(curr, k)
-        return pre
+        return prev
